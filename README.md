@@ -1,6 +1,6 @@
 # Implementation of Image Based Relighting Using Neural Networks
 
-Peiran REN, Yue DONG, Stephen LIN, Xin TONG, Baining GUO, Microsoft Research [[link]](http://research.microsoft.com/en-us/um/people/yuedong/project/neuralibr/neuralibr.htm)
+Peiran REN, Yue DONG, Stephen LIN, Xin TONG, Baining GUO, Microsoft Research [[link]](http://yuedong.shading.me/project/neuralibr/neuralibr.htm)
 
 ## Requirements
 
